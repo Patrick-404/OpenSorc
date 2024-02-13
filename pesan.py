@@ -27,4 +27,3 @@ def pesan():
 
 # Gunakan fungsi pesan dengan cookie yang sesuai
 pesan()
-https://mbasic.facebook.com/composer/mbasic/?csid=46de2cd6-e700-41cd-8106-0238e07814bd&cwevent=add_privacy&view_overview&av=100086390785409&privacyx=291667064279714&paipv=0&eav=Afb4qZqpSwT_KuMk_0i1JAcwdF4x7vr4KodTNm6fNcOB5zNlmAfEVWR7IObvE6xPU3k&wtsid=rdr_0CHtmtDdIwVRNr8QG&_rdr
